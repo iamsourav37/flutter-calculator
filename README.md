@@ -1,6 +1,9 @@
 # calculator
 
-A new Flutter project.
+Flutter project Calculator.
+
+![Travel UI](app_screenshots/ss0.png?raw=true "calculator ui")
+![Travel UI](app_screenshots/ss1.png?raw=true "calculator ui")
 
 ## Getting Started
 
