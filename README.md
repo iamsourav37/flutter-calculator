@@ -2,8 +2,8 @@
 
 Flutter project Calculator.
 
-![Travel UI](app_screenshots/ss0.png?raw=true "calculator ui")
-![Travel UI](app_screenshots/ss1.png?raw=true "calculator ui")
+![Calculator UI](app_screenshot/ss0.png?raw=true)
+![Calculator UI](app_screenshot/ss1.png?raw=true "calculator ui")
 
 ## Getting Started
 
